@@ -1,7 +1,7 @@
 # 安装说明：
 ## 自动安装：
 ```
-wget -O install.sh https://github.com/Turnright-git/94imm/blob/master/install.sh && chmod +x install.sh &&./install.sh
+wget -O install.sh https://github.com/sduwfc/94imm/install.sh && chmod +x install.sh &&./install.sh
 ```
 安装过程中需要输入
 ```
